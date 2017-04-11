@@ -1,1 +1,5 @@
-model.js
+
+
+function Model(parent){
+	this.controller = parent;
+}

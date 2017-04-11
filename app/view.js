@@ -1,1 +1,5 @@
-view.js
+
+
+function View(parent){
+	this.controller = parent;
+}
